@@ -1,4 +1,4 @@
-# Mastermind-Game-Swift-App
+# Mastermind Game
 Mastermind classic board game, remade for ios (iPhone, iPod Touch, iPad) in Swift With XCode
 This Application was built as part of a series of teaching myself swift for ios app development through xcode.
 
