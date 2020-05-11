@@ -20,6 +20,6 @@ This Application was built as part of a series of teaching myself swift for ios 
 - Device should support GPS and be connected to the internet.
 - Can still function without user location functionality through use of GPX files in XCode, [click here to view how.](https://medium.com/@merlos/how-to-simulate-locations-in-xcode-b0f7f16e126d)
 
-# Using The App
+# Playing The Game
 ![Playing a Game](https://i.imgur.com/VoPsyCp.png)
 ![Notable Features](https://i.imgur.com/KQALakR.png)
